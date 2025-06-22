@@ -1,12 +1,12 @@
-<h1 align="center">🌌 May the Code Be With You 🌌</h1>
-
 <p align="center">
   <img src="https://github.com/lukeSkydev/lukeSkydev/assets/your-banner.gif" width="400" alt="Star Wars banner"/>
 </p>
 
+<h1 align="center">🌌 May the Code Be With You 🌌</h1>
+
 # 👋 Hi, I'm Matias Seitlinger
 
-🇦🇷 Full Stack Web Developer from Argentina, living in 🇪🇸 Barcelona.  
+Full Stack Web Developer from Argentina, living in Barcelona.  
 Currently enrolled in the **ConquerBlocks Master** program, learning by building real-world projects.
 
 ## 🧠 Skills & Tools
