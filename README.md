@@ -11,9 +11,9 @@ Currently enrolled in the **ConquerBlocks Master** program, learning by building
 
 ## 🧠 Skills & Tools
 
-- ✅ Python • Git • Linux • SOLID Principles • HTML • CSS
-- 💻 JavaScript (in progress)  
-- 🔜 TypeScript • ReactJS • SQL • Django • Node.js • Rust • Go
+- ✅ Python • Git • Linux • SOLID Principles • HTML • CSS • JavaScript
+- 💻 TypeScript (in progress)  
+- 🔜 ReactJS • SQL • Django • Node.js • Rust • Go
 
 ## 🚀 Goals
 
